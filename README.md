@@ -38,7 +38,7 @@ To build the project from the sources:
 
 ### Documentation
 
-Documentation and video tutorials can be found on the website: https://github.com/Master-AI-GPT/AI-Blocks/index.html
+Documentation and video tutorials can be found on the website: https://Master-AI-GPT/AI-Blocks/index.html
 
 ### License
 
